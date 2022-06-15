@@ -71,3 +71,5 @@ The p value is 7.686e-05, a number so unfathomably small, certainly smaller than
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The original question was, is the vaccine effective in preventing aids in women? The drug seems to make women more susceptible to the virus. We must reject the null hypothesis that Whether or not you got the vaccine had no effect on getting aids for this reason.
